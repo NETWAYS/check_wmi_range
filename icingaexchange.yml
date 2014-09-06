@@ -1,9 +1,9 @@
-name: 
+name: check_wmi_range
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
-target: Temperature
+vendor: Microsoft,NETWAYS
+target: WMI,Operating System
 type: Plugin
 license: gplv2
 releases: 
@@ -15,5 +15,5 @@ releases:
         name: check_wmi_range.pl
         url: "file:///check_wmi_range.pl"
         description: none
-        checksum: 
+        checksum: ce9ccaae203d98df15a1c7281f3e6f81
 
